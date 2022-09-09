@@ -55,7 +55,7 @@ a {
     background-position: center;
 }
 
-.content {
+.services {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -66,7 +66,7 @@ a {
     font-size: 36px;
 }
 
-.type-1 {
+.service {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -102,7 +102,7 @@ p {
     background-color: #00a6cfde;
 }
 
-.type-2 {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
