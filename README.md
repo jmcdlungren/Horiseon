@@ -1,2 +1,24 @@
 # Horiseon-repo
-Updating the Horiseon website for SEO Optimization. This is the first module challenge.
+
+## Description
+
+Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+
+The requestor from Horiseon has asked for assistance with making their site accessible for better search engine optimization. This will allow for them to be found by their potential clients. This project required condensing and figuring out how to make things more efficient and organized while also converting the site to be read by HTML5.
+
+## Installation
+
+N/A
+
+## Usage
+
+This site will be used by potential clients to determine the services that Horiseon provides, and the corresponding benefits. Due to the updated HTML elements and the included alt attributes, it is now also more accessible to a wide array of clients.
+
+## Credits
+
+N/A
+
+## License
+
+Please refer to the LICENSE in the repo.
+
