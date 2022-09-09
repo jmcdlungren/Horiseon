@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 The requestor from Horiseon has asked for assistance with making their site accessible for better search engine optimization. This will allow for them to be found by their potential clients. This project required condensing and figuring out how to make things more efficient and organized while also converting the site to be read by HTML5.
 
 ## Installation
