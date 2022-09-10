@@ -4,6 +4,13 @@
 
 The requestor from Horiseon has asked for assistance with making their site accessible for better search engine optimization. This will allow for them to be found by their potential clients. This project required condensing and figuring out how to make things more efficient and organized while also converting the site to be read by HTML5.
 
+## Link needed for site & screenshot <- delete this when done>
+
+![Example](./images/brand-awareness.png)
+
+[Title](link)
+
+
 ## Installation
 
 N/A

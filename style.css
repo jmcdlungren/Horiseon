@@ -1,3 +1,5 @@
+/* set styling for whole page, using the "universal selector" */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +10,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* styling for the header of the webpage */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,14 +19,20 @@ header {
     color: #ffffff;
 }
 
+/* styling for Horiseon heading */
+
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/* styling for Horiseon heading with "seo" color differentiation */
+
 header h1 .seo {
     color: #d9dcd6;
 }
+
+/* next 3: styling for navigation links in header */
 
 header nav {
     padding-top: 15px;
@@ -36,15 +46,21 @@ header nav ul {
     list-style-type: none;
 }
 
+/* specific notation regarding nav list in heading: "inline-block" is allowing for list items to sit next to each other */
+
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
+/* creation of links to navigate the page */
+
 a {
     color: #ffffff;
     text-decoration: none;
 }
+
+/* styling of the main picture of the page */
 
 .figure {
     height: 800px;
@@ -54,6 +70,8 @@ a {
     background-size: cover;
     background-position: center;
 }
+
+/* next 3: styling of section naming the services of Horiseon, and the respective headings */
 
 .services {
     width: 75%;
@@ -75,9 +93,13 @@ a {
     color: #ffffff;
 }
 
+/* sets font size for all paragraph elements to 16px */
+
 p {
     font-size: 16px;
 }
+
+/* next 2: sets placement of the images within the "services section," with the 1st and 3rd service being placed to the left, and the 2nd being placed to the right */
 
 .float-left {
     float: left;
@@ -90,6 +112,8 @@ p {
     margin-left: 25px;
     max-height: 200px;
 }
+
+/* next 3: styling of aside naming the benefits of using Horiseon's services, and the respective headings */
 
 .benefits {
     margin-right: 20px;
@@ -112,11 +136,15 @@ p {
     text-align: center;
 }
 
+/* set styling of the images / icons within the aside */
+
 .benefit-img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* next 2: set styling of the footer */
 
 .footer {
     padding: 30px;
